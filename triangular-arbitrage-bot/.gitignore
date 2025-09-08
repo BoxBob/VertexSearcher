@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Solidity
+artifacts/
+build/
+*.tsbuildinfo
+
+# Misc
+.DS_Store
+*.swp
